@@ -9,7 +9,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>com.radicalecoaching.app</string>
+	<string>com.radical.ecoaching</string>
 	<key>PROJECT_ID</key>
 	<string>radical-ecoaching</string>
 	<key>STORAGE_BUCKET</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:373358664811:ios:c9d9b1020f8e56c7b7252e</string>
+	<string>1:373358664811:ios:48bcb9770fe96a40b7252e</string>
 </dict>
 </plist>
